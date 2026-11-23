@@ -1,0 +1,5 @@
+_token.txt
+device.json
+*.log
+deploy_auto.py
+*.b64
